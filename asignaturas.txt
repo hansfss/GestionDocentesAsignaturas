@@ -1,0 +1,3 @@
+IVE0041,ElectroMagnetismo,Fat Albert,Diurna,8:00-9:20,MCR-302
+IVE0049,Termodinamica,Hans Folkesson,Diurna,9:30-10:50,MCR-302
+INF0056,Quimica,Your Dad,Diurna,9:30-10:50,MCR-302

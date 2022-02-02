@@ -1,0 +1,8 @@
+23040226-4,Hans Folkesson,Ingeniero,Programacion,Licenciatura
+0-0,Teddy Westside,Arquitecto,Programacion,Magister
+0-0,Richard Less,Profesor,Gestion,Doctorado
+23040226-4,Jack Package,forking,Seguridad,Doctorado
+0-0,fdhq fjreqfeqd,fgrew,Seguridad,Licenciatura
+0-0,gfes grfdw,reqwg,Desarrollo,Bachiller
+11443237-7,fgde gtrwgrt,gregre,Gestion,Magister
+0-0,dffeq rfeqfe,fegre,Desarrollo,Magister
